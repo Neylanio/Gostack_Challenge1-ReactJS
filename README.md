@@ -11,7 +11,7 @@
 
 <figure>
     <img src="pic1.png" width="70%" alt="Project start" title="Project start">
-</figure><br/><br/><br/>
+</figure><br/><br/>
 
 <figure>
   <img src="pic2.png" width="100%" alt="Code" title="Code">
